@@ -6,7 +6,7 @@ I'm obsessed with web technologies and especially in love with:
 - 🧑‍🍳 Serving with [Node](https://nodejs.org)
 - 😌 Typing in [TypeScript](https://www.typescriptlang.org)
 - ☁️ Hosting on [AWS](https://aws.amazon.com)
-- 💪 Supercharging With [Redis](https://redis.io)
+- 💪 Supercharging with [Redis](https://redis.io)
 
 ---
 
