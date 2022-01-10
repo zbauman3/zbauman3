@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Zane
 
-<!--
-**zbauman3/zbauman3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm obsessed with web technologies and especially in love with:
 
-Here are some ideas to get you started:
+- ⚛️ Building in [React](https://reactjs.org)
+- 🧑‍🍳 Serving with [Node](https://nodejs.org)
+- 😌 Typing in [TypeScript](https://www.typescriptlang.org)
+- ☁️ Hosting on [AWS](https://aws.amazon.com)
+- 💪 Supercharging With [Redis](https://redis.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I enjoy solving complex problems and closing 4,815,162,342 tabs after. If you have a project or want to hire me, you can checkout my [resume](./Zane_Bauman_Resume.pdf) for contact info.
